@@ -1,0 +1,24 @@
+//Omit lines 2 and 3
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+
+    // TODO: Prompt for start size
+    {
+        int n;
+        int j;
+
+    {
+            n = get_int("Starting llama Population >9 : ");
+            j = get_int("Ending Population Desired: ");
+
+
+        }
+        while ( n <= j);
+    }
+
+        printf("Years: %i\n", 'i');
+
+}
